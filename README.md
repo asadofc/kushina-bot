@@ -34,52 +34,52 @@ Whether you’re in need of:
 
 ## 🛠️ Commands              
 
-| Command      | Description                                  | Notes                              |
-|--------------|----------------------------------------------|------------------------------------|
-| `/waifu`     | 💖 Cute waifu image                          |                                    |
-| `/neko`      | 🐾 Catgirl image                             |                                    |
-| `/shinobu`   | 🍩 Shinobu-themed image                      |                                    |
-| `/megumin`   | 💥 Megumin-themed image                      |                                    |
-| `/bully`     | 😈 Playful tease image                       |                                    |
-| `/cuddle`    | 🤗 Warm cuddle image                         |                                    |
-| `/cry`       | 😢 Emotional tears image                     |                                    |
-| `/hug`       | 🤗 Gentle hug image                          |                                    |
-| `/awoo`      | 🐺 Awoo expression image                     |                                    |
-| `/kiss`      | 😘 Soft kiss image                           |                                    |
-| `/lick`      | 👅 Playful lick image                        |                                    |
-| `/pat`       | 🐾 Gentle pat image                          |                                    |
-| `/smug`      | 😉 Cheeky smirk image                        |                                    |
-| `/bonk`      | 🔨 Fun bonk image                            |                                    |
-| `/yeet`      | 🌀 Yeet energy image                         |                                    |
-| `/blush`     | 😊 Shy blush image                           |                                    |
-| `/smile`     | 😄 Bright smile image                        |                                    |
-| `/wave`      | 👋 Friendly wave image                       |                                    |
-| `/highfive`  | ✋ High-five image                           |                                    |
-| `/handhold`  | 🤝 Holding hands image                       |                                    |
-| `/nom`       | 🍴 Yummy nom image                           |                                    |
-| `/bite`      | 🦷 Playful bite image                        |                                    |
-| `/slap`      | 👊 Dramatic slap image                       |                                    |
-| `/kill`      | 💀 Intense scene image                       |                                    |
-| `/kick`      | 👢 Strong kick image                         |                                    |
-| `/happy`     | 😁 Joyful moment image                       |                                    |
-| `/wink`      | 😉 Sweet wink image                          |                                    |
-| `/poke`      | 👆 Gentle poke image                         |                                    |
-| `/dance`     | 💃 Happy dance image                        |                                    |
-| `/cringe`    | 😅 Funny cringe image                        |                                    |
-| `/start`     | 🚀 Begin chat with Kushina Uzumaki Bot       |                                    |
-| `/help`      | 📖 Show this help message                    |                                    |
-| `/nsfw`      | 🔥 Random NSFW media (private only)           | Locked until you say secret phrase |
-| `/photo`     | 📸 Random NSFW photo (private only)           | Locked until you say secret phrase |
-| `/gif`       | 🎞️ Random NSFW GIF (private only)            | Locked until you say secret phrase |
-| `/video`     | 🎥 Random NSFW video (private only)           | Locked until you say secret phrase |
+| Command      | Description                          |
+|--------------|--------------------------------------|
+| `/waifu`     | 💖 Cute waifu image                  |
+| `/neko`      | 🐾 Catgirl image                     |
+| `/shinobu`   | 🍩 Shinobu-themed image              |
+| `/megumin`   | 💥 Megumin-themed image              |
+| `/bully`     | 😈 Playful tease image               |
+| `/cuddle`    | 🤗 Warm cuddle image                 |
+| `/cry`       | 😢 Emotional tears image             |
+| `/hug`       | 🤗 Gentle hug image                  |
+| `/awoo`      | 🐺 Awoo expression image             |
+| `/kiss`      | 😘 Soft kiss image                   |
+| `/lick`      | 👅 Playful lick image                |
+| `/pat`       | 🐾 Gentle pat image                  |
+| `/smug`      | 😉 Cheeky smirk image                |
+| `/bonk`      | 🔨 Fun bonk image                    |
+| `/yeet`      | 🌀 Yeet energy image                 |
+| `/blush`     | 😊 Shy blush image                   |
+| `/smile`     | 😄 Bright smile image                |
+| `/wave`      | 👋 Friendly wave image               |
+| `/highfive`  | ✋ High-five image                   |
+| `/handhold`  | 🤝 Holding hands image               |
+| `/nom`       | 🍴 Yummy nom image                   |
+| `/bite`      | 🦷 Playful bite image                |
+| `/slap`      | 👊 Dramatic slap image               |
+| `/kill`      | 💀 Intense scene image               |
+| `/kick`      | 👢 Strong kick image                 |
+| `/happy`     | 😁 Joyful moment image               |
+| `/wink`      | 😉 Sweet wink image                  |
+| `/poke`      | 👆 Gentle poke image                 |
+| `/dance`     | 💃 Happy dance image                |
+| `/cringe`    | 😅 Funny cringe image                |
+| `/start`     | 🚀 Begin chat with Kushina Bot       |
+| `/help`      | 📖 Show this help message            |
+| `/nsfw`      | 🔥 Random NSFW media (private only)  |
+| `/photo`     | 📸 Random NSFW photo (private only)  |
+| `/gif`       | 🎞️ Random NSFW GIF (private only)   |
+| `/video`     | 🎥 Random NSFW video (private only)  |
 
 > **NSFW Unlock:** In private 1:1 chat, send any NSFW command (`/nsfw`, `/photo`, `/gif`, `/video`).  
 > The bot will prompt: “Whisper the secret phrase… ❤️‍🔥”  
-> Then reply with **`SECRET PHRASE`** to unlock NSFW permanently.              
+> Then reply with **`ASAD LOVES RUPA`** to unlock NSFW permanently.              
 
 > **Note:** NSFW commands only function in private chat. In groups, they respond: “NSFW only in private chat.”              
 
----              
+---
 
 ## ⚙️ Tech Stack              
 
