@@ -22,10 +22,10 @@ Whether you’re in need of:
 
 ## ✨ Features              
 
-- **35+ SFW Commands** — Instantly fetch random anime images (waifu, neko, hug, blush, dance, etc.)              
+- **30+ SFW Commands** — Instantly fetch random anime images (waifu, neko, hug, blush, dance, etc.)              
 - **NSFW Commands (Private Chat Only)** — Locked behind a secret phrase for consenting users              
 - **Password Gate** — Cute, playful prompt in private 1:1 chat to unlock NSFW forever:  
-  - **Secret Phrase:** `ASAD LOVES RUPA`              
+  - **Secret Phrase:** `ASK ASAD FOR IT`              
 - **Broadcasting** — Secret `/send` for owner IDs to broadcast announcements (hidden from menu)              
 - **Production-Ready** — Concurrent queue workers to handle many users at once              
 - **Health Check** — Dummy HTTP server keeps the bot alive on platforms like Render              
@@ -74,7 +74,7 @@ Whether you’re in need of:
 | `/video`     | 🎥 Random NSFW video (private only)           | Locked until you say secret phrase |
 
 > **NSFW Unlock:** In private 1:1 chat, send any NSFW command (`/nsfw`, `/photo`, `/gif`, `/video`).  
-> The bot will prompt: “Whisper the secret phrase… 😈”  
+> The bot will prompt: “Whisper the secret phrase… ❤️‍🔥”  
 > Then reply with **`SECRET PHRASE`** to unlock NSFW permanently.              
 
 > **Note:** NSFW commands only function in private chat. In groups, they respond: “NSFW only in private chat.”              
