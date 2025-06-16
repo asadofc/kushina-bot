@@ -75,7 +75,7 @@ Whether you’re in need of:
 
 > **NSFW Unlock:** In private 1:1 chat, send any NSFW command (`/nsfw`, `/photo`, `/gif`, `/video`).  
 > The bot will prompt: “Whisper the secret phrase… ❤️‍🔥”  
-> Then reply with **`ASAD LOVES RUPA`** to unlock NSFW permanently.              
+> Then reply with **`SECRET PHRASE`** to unlock NSFW permanently.              
 
 > **Note:** NSFW commands only function in private chat. In groups, they respond: “NSFW only in private chat.”              
 
