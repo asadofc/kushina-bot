@@ -86,7 +86,7 @@ Whether you’re in need of:
 - **Language:** Python              
 - **Framework:** python-telegram-bot              
 - **HTTP Client:** aiohttp for concurrent fetching              
-- **Deployment:** Stateless; health-check via dummy HTTP server              
+- **Deployment:** Render           
 - **Storage:** In-memory queues and per-chat history for deduplication              
 
 ---              
